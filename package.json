@@ -3,6 +3,7 @@
     "parcel": "^2.15.2"
   },
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build":"parcel build index.html"
   }
 }
