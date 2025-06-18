@@ -1,4 +1,7 @@
 .Practice{
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    touch-action: manipulation;
     color:red;
     display: flex;
     align-items: center;
